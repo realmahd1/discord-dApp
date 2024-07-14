@@ -1,4 +1,5 @@
 # Dappcord
+<img src="./public/Dappcord-flow.png" alt="flow">
 
 ## Technology Stack & Tools
 
